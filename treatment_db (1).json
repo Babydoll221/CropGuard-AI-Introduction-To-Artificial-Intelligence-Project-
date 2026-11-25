@@ -1,0 +1,104 @@
+{
+  "CBB": {
+    "common_name": "Cassava Bacterial Blight",
+    "severity": "HIGH",
+    "what_it_is": "Bacterial infection causing angular brown leaf spots and wilting.",
+    "immediate": [
+      "Prune and remove all visibly infected leaves immediately.",
+      "Disinfect pruning tools with bleach solution (1 part bleach : 9 parts water) between plants.",
+      "Do NOT compost infected leaves \u2014 burn or bury them far from the field."
+    ],
+    "treatment": [
+      "Spray copper-based bactericide (e.g., copper oxychloride) every 10\u201314 days.",
+      "Improve field drainage \u2014 CBB spreads faster in waterlogged soil.",
+      "Apply balanced NPK fertilizer to strengthen plant immunity."
+    ],
+    "prevention": [
+      "Plant CBB-resistant cassava varieties (e.g., TMS 30572).",
+      "Rotate with maize or legumes for at least one season.",
+      "Avoid overhead watering \u2014 water at the base."
+    ],
+    "expert_note": "If more than 30% of your field is infected, contact your local agricultural extension officer \u2014 the field may need to be replaced with clean cuttings."
+  },
+  "CBSD": {
+    "common_name": "Cassava Brown Streak Disease",
+    "severity": "CRITICAL",
+    "what_it_is": "Viral disease causing brown streaks on stems and rotting of the tuber \u2014 the biggest threat to cassava in East Africa.",
+    "immediate": [
+      "Uproot and destroy infected plants IMMEDIATELY \u2014 including the roots.",
+      "Do NOT eat or sell roots from infected plants \u2014 they may be toxic.",
+      "Do NOT take cuttings from any plant showing symptoms \u2014 this spreads the virus."
+    ],
+    "treatment": [
+      "There is NO cure once a plant is infected.",
+      "Only clean, certified virus-free cuttings from approved sources should be planted.",
+      "Control whiteflies (the virus carriers) with neem-based sprays every 7 days."
+    ],
+    "prevention": [
+      "Source cuttings ONLY from certified clean seed programs.",
+      "Plant CBSD-resistant varieties where available (e.g., Narocass 1).",
+      "Inspect new plants weekly for the first 3 months \u2014 early detection saves the field."
+    ],
+    "expert_note": "CBSD spreads fast. If you see more than 2\u20133 infected plants, contact your extension officer the SAME WEEK. Delaying can lose the entire crop."
+  },
+  "CGM": {
+    "common_name": "Cassava Green Mite",
+    "severity": "MEDIUM",
+    "what_it_is": "Tiny mites feeding on young leaves, causing yellow speckling and stunted growth.",
+    "immediate": [
+      "Inspect the underside of young leaves \u2014 mites hide there.",
+      "Spray neem oil solution (5 ml neem oil + 1 L water + 1 drop soap) on affected plants.",
+      "Repeat spray weekly for 3 weeks."
+    ],
+    "treatment": [
+      "Use insecticidal soap on heavily infested plants.",
+      "Introduce predatory mites (Typhlodromalus aripo) \u2014 available through extension programs.",
+      "Remove alternate host weeds around the field."
+    ],
+    "prevention": [
+      "Avoid drought stress \u2014 healthy plants resist mites better.",
+      "Mulch around plants to retain soil moisture.",
+      "Plant early in the rainy season."
+    ],
+    "expert_note": "CGM rarely kills plants alone, but weakened plants become vulnerable to other diseases. Treat early."
+  },
+  "CMD": {
+    "common_name": "Cassava Mosaic Disease",
+    "severity": "HIGH",
+    "what_it_is": "Viral disease causing yellow-green mosaic patterns on leaves, reducing yield by up to 70%.",
+    "immediate": [
+      "Remove and burn infected plants within 3 days of noticing symptoms.",
+      "Do NOT take cuttings from infected plants \u2014 the virus passes to the next generation.",
+      "Wash hands and tools after handling infected plants."
+    ],
+    "treatment": [
+      "There is NO cure for CMD once a plant is infected.",
+      "Control whiteflies (spreaders of the virus) with neem spray or yellow sticky traps.",
+      "Focus on protecting healthy plants in the field."
+    ],
+    "prevention": [
+      "Plant CMD-resistant varieties (e.g., TME 204, TMS 30572).",
+      "Rogue (remove) infected plants weekly during the first 3 months.",
+      "Use certified virus-free cuttings from trusted sources."
+    ],
+    "expert_note": "CMD is endemic in East Africa. Every farmer should rogue at least once a week \u2014 5 minutes a week saves a harvest."
+  },
+  "Healthy": {
+    "common_name": "Healthy Cassava Plant",
+    "severity": "NONE",
+    "what_it_is": "No disease detected \u2014 your cassava leaf looks healthy.",
+    "immediate": [
+      "No action needed \u2014 your plant is healthy! \u2705",
+      "Keep monitoring weekly for early signs of disease."
+    ],
+    "treatment": [
+      "Continue your current crop management practices."
+    ],
+    "prevention": [
+      "Maintain regular weeding and good field hygiene.",
+      "Inspect new growth weekly, especially during rainy season.",
+      "Use clean tools and certified cuttings for any new planting."
+    ],
+    "expert_note": "Early detection is the best protection. Keep scanning your crop weekly with CropGuard AI."
+  }
+}
